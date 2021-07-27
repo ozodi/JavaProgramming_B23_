@@ -64,6 +64,12 @@ public class CollectionUtility {
 
         System.out.println(result);
 
+        int max = Collections.max(list);
+        int min = Collections.min(list);
+
+        System.out.println(max);
+        System.out.println(min);
+
 
 
 
