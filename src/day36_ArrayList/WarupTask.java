@@ -58,5 +58,8 @@ public class WarupTask {
         System.out.println(list4);
 
 
+        System.out.println(list4);
+
+
     }
 }
